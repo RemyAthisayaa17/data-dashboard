@@ -1,4 +1,11 @@
 # DataForge
+## Preview
+
+### Light Mode
+![Light Mode](./output/Light-mode.jpeg)
+
+### Dark Mode
+![Dark Mode](./output/Dark-mode.jpeg)
 
 ## Problem
 
